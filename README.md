@@ -1,5 +1,4 @@
-# Live 
-https://mahima-portfolio-navy.vercel.app/
+# Live https://mahima-portfolio-navy.vercel.app/
 
 
 Getting Started with Create React App
